@@ -34,9 +34,8 @@ Deploying is `DEPLOY.md`.
 Deployed app: https://sec-filings-agent-evlc.onrender.com
 ```
 
-ADD YOUR NAME TO YOUR RENDER PROJECT SO THE LINK CAN BE PERSONALIZED. (forgot to do that in the beginning and later added it, but the app was already deployed so couldn't change the link later. But did change the file name.)
+**Name** : **HARSHA PRAKASH** (forgot to add the name to the deployment in the beginning and later added it, but the app was already deployed so couldn't change the link later. But did change the file name.)
 
-PLEASE ENSURE YOUR URL WORKS BY TESTING IT IN INCOGNITO MODE.
 
 ### Write-up
 
