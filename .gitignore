@@ -6,6 +6,5 @@ __pycache__/
 *.ipynb
 AGENTS.md
 DEPLOY.md
-README.md
 figures/
 *.ipynb
